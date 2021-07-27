@@ -1,6 +1,8 @@
 # MADANG
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdgarden&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdgarden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     각오는 무겁게 기분은 가볍게
     영감은 입금에서 실천은 딴짓에서
