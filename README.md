@@ -8,7 +8,7 @@
 - 📘 이것저것 만들어보는걸 좋아합니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdgarden&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdgarden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdgarden&size_weight=0.5&count_weight=0.5)
     
 
 
