@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Madang%20Garden&fontAlignY=40&fontSize=90)
-
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
   <b>보이는 것 너머에 있는 것들을 봅니다.</b>
@@ -19,9 +17,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdgarden&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
-</p>
 
 
 
