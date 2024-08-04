@@ -6,7 +6,7 @@
 🚀 삽질 스페셜리스트 | 🎸 프로 사부작러 | 🎯 맨땅에 헤딩 전문가
 </p>
 <p align="center">
-💾 서버 | 🛎️ API・DB 설계 및 구현 | ⚙️ 시스템 아키텍처 설계 및 구현
+💾 서버 | 🛎️ API・DB 설계 및 구현 | ⚙️ 시스템 아키텍처 설계 및 구현 | 📄 문서화
 </p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
