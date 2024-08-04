@@ -1,0 +1,23 @@
+- name: Node.js
+  logo: node.js
+  url: https://nodejs.org/
+  color: '#5FA04E'
+  projects:
+    - url: https://github.com/mdgarden/tataru-chatbot
+    - url: https://github.com/EasyAndBeauty/DailyReceipt-FE-WEB
+    - url: https://github.com/ZZIPSA/kkuk-kkuk-fe
+    - url: https://github.com/ZZIPSA/kkuk-kkuk-be
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/mdgarden/ffxiv-chatbot-fc
+
+- name: Flutter
+  logo: flutter
+  url: https://flutter.dev/
+  color: '#02569B'
+  projects:
+    - url: https://github.com/EasyAndBeauty/DailyReceipt-Flutter
